@@ -1,6 +1,8 @@
 import random
 import string
 
+#program cretes a randomized string of characters between 1 and 90.
+
 
 length = int(input("\nEnter the desired length of password: "))
 
