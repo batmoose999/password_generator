@@ -1,1 +1,1 @@
-This is a test file, for checking version control on Atom Text Editor.
+This is a test file, for checking version control on Github.
